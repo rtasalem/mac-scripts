@@ -1,0 +1,11 @@
+#!/bin/bash
+set -e
+
+echo "Updating Homebrew"
+brew update
+
+echo "Checking for outdated packages"
+brew outdated
+
+echo "Upgrading outdated packages"
+brew upgrade

@@ -1,0 +1,9 @@
+#!/bin/bash
+set -e
+
+echo "Mac Scripts - Help"
+echo ""
+echo "Available commands:"
+echo "  ./help    - Lists all available commands."
+echo "  ./install - Yes/no prompts for installing various software and desktop applications."
+echo "  ./update  - Updates Homebrew and upgrades all packages (installed via Homebrew only)."
