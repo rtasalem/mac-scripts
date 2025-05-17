@@ -1,0 +1,11 @@
+#!/bin/bash
+set -e
+
+echo
+echo Mac Scripts - Help
+echo 
+echo Commands list:
+echo "  ./help         - Lists all available commands."
+echo "  ./brew-install - Installs all of my most used applications via Homebrew."
+echo "  ./update       - Checks to see if there are any updates for Homebrew. Also includes upgrades for packages installed via Homebrew."
+echo
