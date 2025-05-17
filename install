@@ -1,0 +1,39 @@
+#!/bin/bash
+
+formulae=(
+  "git"
+  "docker"
+  "mongosh"
+  "postgresql@14"
+  "awscli"
+  "azure-cli"
+  "k9s"
+)
+
+casks=(
+  "vivaldi"
+  "ghostty"
+  "bitwarden"
+  "visual-studio-code"
+  "postman"
+  "pgadmin4"
+  "mongodb-compass"
+  "obsidian"
+  "notion"
+  "microsoft-outlook"
+  "whatsapp"
+  "spotify"
+  "numi"
+  "hiddenbar"
+  "shottr"
+  "macs-fan-control"
+  "tiles"
+)
+
+for formula in "${formulae[@]}"; do
+  brew install "$formula"
+done
+
+for cask in "${casks[@]}"; do
+  brew install --cask "$cask"
+done

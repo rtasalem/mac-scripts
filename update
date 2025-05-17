@@ -3,6 +3,7 @@ set -e
 
 echo "Updating Homebrew"
 brew update
+echo -------------
 
 echo "Checking for outdated packages"
 brew outdated
