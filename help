@@ -6,6 +6,6 @@ echo Mac Scripts - Help
 echo 
 echo Commands list:
 echo "  ./help         - Lists all available commands."
-echo "  ./brew-install - Installs all most commonly used formulae and casks via Homebrew."
-echo "  ./update       - Updates Homebrew and upgrades all packages that have been installed via Homebrew."
+echo "  ./brew-install - Installs all of my most used applications via Homebrew."
+echo "  ./update       - Checks to see if there are any updates for Homebrew. Also includes upgrades for packages installed via Homebrew."
 echo
