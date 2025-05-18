@@ -2,6 +2,7 @@
 
 formulae=(
   "git"
+  "gh"
   "docker"
   "mongosh"
   "postgresql@14"
@@ -18,6 +19,7 @@ casks=(
   "postman"
   "pgadmin4"
   "mongodb-compass"
+  "figma"
   "obsidian"
   "notion"
   "microsoft-outlook"
