@@ -2,6 +2,7 @@
 
 formulae=(
   "git"
+  "gh"
   "docker"
   "mongosh"
   "postgresql@14"
