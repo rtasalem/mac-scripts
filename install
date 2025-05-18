@@ -18,6 +18,7 @@ casks=(
   "postman"
   "pgadmin4"
   "mongodb-compass"
+  "figma"
   "obsidian"
   "notion"
   "microsoft-outlook"
