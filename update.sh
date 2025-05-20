@@ -2,7 +2,6 @@
 set -e
 
 brew update
-echo -------------
 
 echo "Checking for outdated packages"
 outdated=$(brew outdated)
