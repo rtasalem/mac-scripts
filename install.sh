@@ -30,6 +30,7 @@ casks=(
   "shottr"
   "macs-fan-control"
   "tiles"
+  "raycast"
 )
 
 for formula in "${formulae[@]}"; do
