@@ -7,7 +7,7 @@ echo "Checking for outdated packages"
 outdated=$(brew outdated)
 
 if [ -z "$outdated" ]; then
-  echo "No upgrades found at this time."
+  echo "No package upgrades found at this time."
 else
   echo "$outdated"
   echo "Upgrading outdated packages"
