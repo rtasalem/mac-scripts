@@ -29,7 +29,6 @@ casks=(
   "hiddenbar"
   "shottr"
   "macs-fan-control"
-  "tiles"
   "raycast"
 )
 
