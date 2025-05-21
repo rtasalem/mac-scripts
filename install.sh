@@ -9,6 +9,8 @@ formulae=(
   "awscli"
   "azure-cli"
   "k9s"
+  "helm"
+  "kubectl"
 )
 
 casks=(
