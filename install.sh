@@ -14,24 +14,25 @@ formulae=(
 )
 
 casks=(
-  "vivaldi"
-  "ghostty"
   "bitwarden"
-  "visual-studio-code"
-  "postman"
-  "pgadmin4"
-  "mongodb-compass"
   "figma"
-  "obsidian"
-  "notion"
-  "microsoft-outlook"
-  "whatsapp"
-  "spotify"
-  "numi"
+  "ghostty"
   "hiddenbar"
-  "shottr"
+  "logi-options+"
   "macs-fan-control"
+  "microsoft-outlook"
+  "mongodb-compass"
+  "notion"
+  "numi"
+  "obsidian"
+  "pgadmin4"
+  "postman"
   "raycast"
+  "shottr"
+  "spotify"
+  "visual-studio-code"
+  "vivaldi"
+  "whatsapp"
 )
 
 for formula in "${formulae[@]}"; do
