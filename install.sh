@@ -19,6 +19,7 @@ casks=(
   "figma"
   "ghostty"
   "hiddenbar"
+  "logi-options+"
   "macs-fan-control"
   "microsoft-outlook"
   "mongodb-compass"
