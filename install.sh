@@ -14,6 +14,7 @@ formulae=(
 )
 
 casks=(
+  "balenaetcher"
   "bitwarden"
   "canva"
   "figma"
