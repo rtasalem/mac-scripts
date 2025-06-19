@@ -4,6 +4,7 @@ formulae=(
   "awscli"
   "azure-cli"
   "docker"
+  "fastfetch"
   "gh"
   "git"
   "helm"
