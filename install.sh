@@ -1,20 +1,24 @@
 #!/bin/bash
 
 formulae=(
-  "git"
-  "gh"
-  "docker"
-  "mongosh"
-  "postgresql@14"
   "awscli"
   "azure-cli"
-  "k9s"
+  "docker"
+  "fastfetch"
+  "gh"
+  "git"
   "helm"
+  "k9s"
   "kubectl"
+  "lazydocker"
+  "mongosh"
+  "postgresql@14"
 )
 
 casks=(
+  "balenaetcher"
   "bitwarden"
+  "canva"
   "figma"
   "ghostty"
   "hiddenbar"
