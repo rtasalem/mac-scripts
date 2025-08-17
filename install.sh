@@ -1,9 +1,10 @@
 #!/bin/bash
 
+set -e
+
 formulae=(
   "awscli"
   "azure-cli"
-  "docker"
   "fastfetch"
   "gh"
   "git"
@@ -19,6 +20,7 @@ casks=(
   "balenaetcher"
   "bitwarden"
   "canva"
+  "docker-desktop"
   "figma"
   "ghostty"
   "hiddenbar"
