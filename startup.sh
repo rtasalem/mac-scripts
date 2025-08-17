@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -e
+
 if ! xcode-select -p &> /dev/null; then
     echo "Command Line Tools are not installed. Installing..."
     xcode-select --install
