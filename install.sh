@@ -22,6 +22,7 @@ casks=(
   "canva"
   "docker-desktop"
   "figma"
+  "framer"
   "ghostty"
   "hiddenbar"
   "logi-options+"
